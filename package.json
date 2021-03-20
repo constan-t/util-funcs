@@ -1,0 +1,17 @@
+{
+  "name": "util-funcs",
+  "version": "0.0.7",
+  "description": "Is a simple package with functions that can be useful to you!",
+  "main": "methods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "utils",
+    "utils functions",
+    "functions"
+  ],
+  "author": "constant#2600",
+  "license": "Apache-2.0"
+}
